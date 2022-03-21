@@ -9,7 +9,6 @@ I'm also interested in the way to mix IT and sport, specially rugby my favourite
 Find me on :
 
 - 🐦 Twitter :twitter.com/yramnaillik
-- 📷 Instagram : @yramnaillik
 - 🔎 LinkedIn : linkedin.com/in/killianmary/
 
 
