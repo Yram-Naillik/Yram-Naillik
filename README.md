@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Killian MARY 
-also known as El Gordo Guapo or @yramnaillik on social medias ! 🤳
+also known as @yramnaillik on social medias ! 🤳
 
-I'm currently both working at mipih in Toulouse, France as software engineer and studying in the IT engineer school called ISIS in Castres, France. I also work in a student enterprise called Horus HealthCare Systems in which I'm IT Manager.
+I'm currently working as a software development engineer for Fortuneo, a French online bank.
 
-I'm interested in almost everything around IT and Health, particularly in human health. This is exactly what we learn at ISIS and what I do at MiPih.
-I'm also interested in the way to mix IT and sport, specially rugby my favourite sport over all. :football:
+With an engineering background in healthcare IT, I'm looking for an opportunity in this field. So I'm always on the lookout for new developments in e-health.
+Je suis également très intéressé par les applications de la e-santé dans le sport de haut niveau, particulièrement dans le rugby.
 
 Find me on :
 
-- 🐦 Twitter :twitter.com/yramnaillik
+- 🐦 Twitter : twitter.com/yramnaillik
 - 🔎 LinkedIn : linkedin.com/in/killianmary/
